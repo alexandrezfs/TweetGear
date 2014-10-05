@@ -1,0 +1,14 @@
+{
+  "name": "jquery-mobile-flat-ui-theme",
+  "homepage": "https://github.com/ququplay/jquery-mobile-flat-ui-theme",
+  "_release": "f33a232328",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f33a232328c51941d55c8abebe3471185280c33f"
+  },
+  "_source": "git://github.com/ququplay/jquery-mobile-flat-ui-theme.git",
+  "_target": "*",
+  "_originalSource": "ququplay/jquery-mobile-flat-ui-theme",
+  "_direct": true
+}
